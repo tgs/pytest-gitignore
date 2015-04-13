@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name = 'pytest-gitignore',
-    version = '1.1',
+    version = '1.2',
     description = 'py.test plugin to ignore the same files as git',
     url = 'https://github.com/tgs/pytest-gitignore',
     long_description = open('README.txt').read(),
