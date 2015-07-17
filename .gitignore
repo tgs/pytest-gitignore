@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Test that the thing actually works.
+tests/test_should_be_gitignored.py
